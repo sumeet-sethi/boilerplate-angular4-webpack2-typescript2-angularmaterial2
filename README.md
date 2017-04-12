@@ -4,9 +4,7 @@ This Boiler Plate (referenced throughout the app as BP | Bp | bp) is running the
 -   Angular @ 4
 -   Webpack @ 2 
 -   Type Script @ 2
--   Angular Material @ 2 (*)
-
-*   Note: Angular Material 2 is not being used at the moment since it is still in beta and not yet stable. Once it is stable, I will include it in this boiler plate app
+-   Angular Material @ 2
 
 
 ## Installation
